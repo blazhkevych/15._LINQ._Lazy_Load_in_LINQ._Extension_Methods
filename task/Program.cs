@@ -11,7 +11,7 @@
     ///     public int Age { get; set; }
     ///     public string City { get; set; }
     /// }
-    /// List&lt;Person&gt; person = new List&lt;Person&gt;()
+    /// List<Person> person = new List<Person>()
     /// {
     ///     new Person(){ Name = "Andrey", Age = 24, City = "Kyiv"},
     ///     new Person(){ Name = "Liza", Age = 18, City = "Odesa" },
